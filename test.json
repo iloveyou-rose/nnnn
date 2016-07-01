@@ -1,14 +1,17 @@
-[
-    {
-        "name": "Person 1",
-        "age": 30
-    },
-    {
-        "name": "Person 2",
-        "age": 20
-    },
-    {
-        "name": "Person 3",
-        "age": 40
-    }
-]
+{ 
+"wallpapers": 
+	[ 
+		{
+			"name": "Black Patches",
+			"age": "21"
+		},
+		{
+			"name": "Mlacks",
+			"age": "24"
+		}, 
+		{
+			"name": "Busttr",
+			"age": "31"
+		}
+	]
+}
