@@ -1,0 +1,17 @@
+{ 
+"array": 
+	[ 
+		{
+			"name": "Black Patches",
+			"age": "21"
+		},
+		{
+			"name": "Mlacks",
+			"age": "24"
+		}, 
+		{
+			"name": "Busttr",
+			"age": "31"
+		}
+	]
+}
