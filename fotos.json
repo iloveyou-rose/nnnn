@@ -188,16 +188,16 @@
 	
 	"videos": [
 	{
-		"name": "video",
+		"name": "G&R - Eu te amo!",
 		"url": "https://github.com/hugogabriel/TW-Walls/blob/master/a/video1.mp4?raw=true",
-		"thumb": "http://www.androidpit.com.br/img/icon/favicon-196x196.png",
-		"timeStamp": "1467079578000"
+		"thumb": "https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/videos/thum_video_1.jpg",
+		"timeStamp": "1458189784000"
 	},
 	{
-		"name": "video 2",
+		"name": "G&R - Para Sempre",
 		"url": "https://github.com/hugogabriel/TW-Walls/blob/master/a/video2.mp4?raw=true",
-		"thumb": "http://www.androidpit.com.br/img/icon/favicon-196x196.png",
-		"timeStamp": "1467079578000"
+		"thumb": "https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/videos/thum_video_2.jpg",
+		"timeStamp": "1455594184000"
 	}
     ]
 }
