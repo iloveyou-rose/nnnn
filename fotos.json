@@ -1,184 +1,124 @@
 {
    "Wallpapers":[
       {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/1.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/1_thumb.jpg",
-         "name":"Wallpaper 1"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/2.jpeg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/2_thumb.jpg",
-         "name":"Wallpaper 2"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/3.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/3_thumb.jpg",
-         "name":"Wallpaper 3"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/4.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/4_thumb.jpg",
-         "name":"Wallpaper 4"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/5.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/5_thumb.jpg",
-         "name":"Wallpaper 5"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/6.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/6_thumb.jpg",
-         "name":"Wallpaper 6"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/7.jpeg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/7_thumb.jpg",
-         "name":"Wallpaper 7"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/8.jpeg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/8_thumb.jpg",
-         "name":"Wallpaper 8"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/11.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/11_thumb.jpg",
-         "name":"Wallpaper 11"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/12.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/12_thumb.jpg",
-         "name":"Wallpaper 12"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/14.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/14_thumb.jpg",
-         "name":"Wallpaper 14"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/15.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/15_thumb.jpg",
-         "name":"Wallpaper 15"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/16.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/16_thumb.jpg",
-         "name":"Wallpaper 16"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/17.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/17_thumb.jpg",
-         "name":"Wallpaper 17"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/18.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/18_thumb.jpg",
-         "name":"Wallpaper 18"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/20.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/20_thumb.jpg",
-         "name":"Wallpaper 20"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/23.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/23_thumb.jpg",
-         "name":"Wallpaper 23"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/25.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/25_thumb.jpg",
-         "name":"Wallpaper 25"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/26.jpeg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/26_thumb.jpg",
-         "name":"Wallpaper 26"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/35.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/35_thumb.jpg",
-         "name":"Wallpaper 35"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/36.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/36_thumb.jpg",
-         "name":"Wallpaper 36"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/38.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/38_thumb.jpg",
-         "name":"Wallpaper 38"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/39.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/39_thumb.jpg",
-         "name":"Wallpaper 39"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/40.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/40_thumb.jpg",
-         "name":"Wallpaper 40"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/41.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/41_thumb.jpg",
-         "name":"Wallpaper 41"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/42.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/42_thumb.jpg",
-         "name":"Wallpaper 42"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/43.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/43_thumb.jpg",
-         "name":"Wallpaper 43"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/44.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/44_thumb.jpg",
-         "name":"Wallpaper 44"
-      },
-      {
-         "author":"Stock",
-         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/45.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/45_thumb.jpg",
-         "name":"Wallpaper 45"
-      },
-      {
-         "author":"Stock",
          "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/46.jpg",
-         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/46_thumb.jpg",
-         "name":"Wallpaper 46"
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/46_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/45.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/45_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/44.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/44_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/43.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/43_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/42.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/42_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/41.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/41_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/40.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/40_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/39.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/39_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/38.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/38_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/36.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/36_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/35.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/35_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/26.jpeg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/26_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/25.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/25_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/23.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/23_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/20.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/20_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/18.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/18_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/17.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/17_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/16.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/16_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/15.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/15_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/14.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/14_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/12.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/12_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/11.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/11_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/8.jpeg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/8_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/7.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/7_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/6.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/6_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/5.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/5_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/4.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/4_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/3.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/3_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/2.jpeg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/2_thumb.jpg"
+      },
+      {
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/1.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/1_thumb.jpg"
       }
    ],
    "videos":[
