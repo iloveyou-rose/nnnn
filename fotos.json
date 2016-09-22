@@ -160,20 +160,26 @@
       },
       {
          "name":"VID-20160820",
-         "url":"https://gitlab.com/iloveyou-rose/nnnn/raw/master/videos/VID-20160820-WA0009.mp4?private_token=-jLBfPeUa1FRc-RD8bS2",
-         "thumb":"https://gitlab.com/iloveyou-rose/nnnn/raw/master/videos/VID-20160820-WA0009.PNG?private_token=-jLBfPeUa1FRc-RD8bS2",
+         "url":"https://github.com/iloveyou-rose/nnnn/blob/master/videos/VID-20160820-WA0009.mp4?raw=true",
+         "thumb":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/videos/VID-20160820-WA0009.PNG",
          "timeStamp":"1471665684000"
       },
       {
          "name":"VID-20160621",
-         "url":"https://gitlab.com/iloveyou-rose/nnnn/raw/master/videos/VID_20160621_043752.mp4?private_token=-jLBfPeUa1FRc-RD8bS2",
-         "thumb":"https://gitlab.com/iloveyou-rose/nnnn/raw/master/videos/VID_20160621_043752.PNG?private_token=-jLBfPeUa1FRc-RD8bS2",
+         "url":"https://github.com/iloveyou-rose/nnnn/blob/master/videos/VID_20160621_043752.mp4?raw=true",
+         "thumb":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/videos/VID_20160621_043752.PNG",
          "timeStamp":"1466481684000"
       },
       {
          "name":"VID-20160625",
-         "url":"https://gitlab.com/iloveyou-rose/nnnn/raw/master/videos/VID_20160625_045859.mp4?private_token=-jLBfPeUa1FRc-RD8bS2",
-         "thumb":"https://gitlab.com/iloveyou-rose/nnnn/raw/master/videos/VID_20160625_045859.PNG?private_token=-jLBfPeUa1FRc-RD8bS2",
+         "url":"https://github.com/iloveyou-rose/nnnn/blob/master/videos/VID_20160625_045859.mp4?raw=true",
+         "thumb":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/videos/VID_20160625_045859.PNG",
+         "timeStamp":"1466827284000"
+      },
+      {
+         "name":"Longe de Você",
+         "url":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/videos/2.mp4?raw=true",
+         "thumb":"https://raw.githubusercontent.com/iloveyou-rose/nnnn/master/videos/2.PNG",
          "timeStamp":"1466827284000"
       }
    ],
